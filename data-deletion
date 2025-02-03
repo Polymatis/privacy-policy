@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suppression des Données</title>
+</head>
+<body>
+    <h1>Suppression des Données</h1>
+    <p>Si vous souhaitez supprimer vos données, veuillez suivre ces étapes :</p>
+    <ol>
+        <li>Envoyez un e-mail à <a href="mailto:votre-email@example.com">votre-email@example.com</a>.</li>
+        <li>Dans l'objet, indiquez : "Demande de suppression des données".</li>
+        <li>Incluez les informations nécessaires pour identifier votre compte.</li>
+    </ol>
+    <p>Nous traiterons votre demande sous 7 jours ouvrables.</p>
+</body>
+</html>
